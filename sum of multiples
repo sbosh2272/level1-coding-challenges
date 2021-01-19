@@ -23,5 +23,15 @@ console.log( multiples(5) );
 console.log( multiples(6) );
 
 task2
+Write a function that takes 2 numbers as input. If either of the numbers is 3 AND the sum of the numbers contains a 3 then return true. Otherwise return false
+
 function sum(num1,num2){
 }
+Task 1.3
+
+Write a function that takes 2 numbers as input. If either of the numbers is 65, OR if the sum of the numbers is 65 then return true. Otherwise return false.
+Task 1.4
+
+Write a function, name it square. It takes in an integer and then prints out a square using the hash character.
+
+eg square(2) should print
