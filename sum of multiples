@@ -21,3 +21,7 @@ function multiples(number) {
 console.log( multiples(10) );
 console.log( multiples(5) );
 console.log( multiples(6) );
+
+task2
+function sum(num1,num2){
+}
